@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App Name</string>
+    
+    <string-array name="names">
+        <item>布田</item>
+        <item>a</item>
+        <item>b</item>
+        <item>b</item>
+        <item>54</item>
+        <item>45g</item>
+        <item>34g</item>
+        <item>acac</item>
+        <item>hh</item>
+        <item>56</item>
+        <item>布田</item>
+        <item>asc</item>
+        <item>cc</item>
+        <item>789l</item>
+        <item>hm</item>
+        <item>s</item>
+    </string-array>
+    
+    <string-array name="photos">
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+    </string-array>
+
+    <string-array name="messages">
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+        <item>布田</item>
+    </string-array>
+
+</resources>
